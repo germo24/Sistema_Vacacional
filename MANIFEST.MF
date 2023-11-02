@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: German Voss
+Main-Class: Welcome
+X-COMMENT: Practice
